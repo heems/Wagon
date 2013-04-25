@@ -2,6 +2,7 @@
 ## Eclipse
 #################
 
+*.class
 *.pydevproject
 .project
 .metadata
@@ -161,3 +162,11 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+/HealthGain.class
+/Item.class
+/Missions.class
+/OpenFile.class
+/Prompt.class
+/Sorts.class
+/SpeedBoost.class
+/Wagon.class
